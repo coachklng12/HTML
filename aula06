@@ -7,10 +7,10 @@
     <title>Aula 06 HTML - lista e tabelas</title>
 </head>
 <body>
-<table border="2px" width="50" height="50"
+<table border="28px" width="200" height="450"
 
 <tr>
-<td></td>
+     <td><img src="coach.jpeg"> </td>
 
 </tr>
 
